@@ -1,0 +1,12 @@
+.form-group label{
+    display: inline-block;
+   }
+ 
+.form-group input{
+    display: inline-block;
+   }
+ 
+.form-group select{
+    display: inline-block;
+   }
+ 

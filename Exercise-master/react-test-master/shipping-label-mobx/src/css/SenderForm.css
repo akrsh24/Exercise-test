@@ -1,0 +1,16 @@
+.row{
+    padding-left:200px;
+    margin-bottom: 50px;
+}
+
+.heading{
+    /* padding-left: 100px; */
+    margin-bottom: 30px;
+}
+
+#button-1{
+    padding: 5px;
+    margin-left:255px;
+    margin-top:0px;
+    margin-right: 25px;
+}

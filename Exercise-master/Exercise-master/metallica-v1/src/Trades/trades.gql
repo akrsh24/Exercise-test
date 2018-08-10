@@ -1,0 +1,16 @@
+import gql from 'graphql-tag';
+
+const tradesQuery = gql`
+          {
+            trades{
+                idd
+                commodity
+                side
+                quantity
+                price
+                counterparty
+                location
+            }
+          }
+        `;
+export default tradesQuery;
